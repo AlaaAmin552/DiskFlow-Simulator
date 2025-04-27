@@ -113,6 +113,7 @@ Press Enter to exit...
 
 ## Team Members
 
-This project was developed by:
-
-- [Your Name] (Student) - Responsible for coding, testing, and documentation.
+- **A'laa Amin Abdulaziz Elgezery**  
+- **Habiba Abo Khalil Hadaad Abo Amna**  
+- **Salma Mahmoud**
+- **Rania Ahmed Antar** 
